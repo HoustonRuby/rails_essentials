@@ -1,4 +1,5 @@
-== Simple Form
+Simple Form
+===========
 
 This one guy is AWESOME
 
